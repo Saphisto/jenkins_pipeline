@@ -6,6 +6,8 @@ pipeline {
             steps {
                 echo 'this pipeline idea is not bad'
 		echo 'trying again'
+		echo 'hi hi'
+
             }
         }
     
