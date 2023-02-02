@@ -5,6 +5,7 @@ pipeline {
         stage('Not baf') {
             steps {
                 echo 'this pipeline idea is not bad'
+		echo 'trying again'
             }
         }
     
